@@ -1,0 +1,1 @@
+import{k as r,e as t,f as n,a3 as o}from"./Dkonc8gM.js";const s={};function a(e,c){return t(),n("li",null,[o(e.$slots,"default",{},void 0,!0)])}const l=r(s,[["render",a],["__scopeId","data-v-4c2f5fb9"]]);export{l as default};
