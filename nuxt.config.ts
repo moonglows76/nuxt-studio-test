@@ -7,5 +7,11 @@ export default defineNuxtConfig({
     '@nuxtjs/plausible',
     // https://github.com/nuxt/devtools
     '@nuxt/devtools'
-  ]
+  ],
+
+  compatibilityDate: '2024-11-18',
+
+  devtools: {
+    enabled: true
+  }
 })
